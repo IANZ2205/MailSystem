@@ -1,0 +1,8 @@
+﻿ham	Hi Ian, please find the draft Q4 budget attached. Could you review the hospital supplies section before our meeting on Thursday?
+spam	You have WON a free prize! Click here to claim your cash reward now!!!
+ham	Reminder: access list updates by Friday. Let me know if you need any changes.
+spam	URGENT: Your account is at risk. Verify your password immediately to avoid suspension.
+ham	Thanks for the update, that works for me. I will see you at the meeting.
+spam	Cheap loans, no questions asked. Apply now for instant approval!
+ham	Hi team, the server room access is working fine now.
+spam	Weekend offer inside! Claim your free gift card today.

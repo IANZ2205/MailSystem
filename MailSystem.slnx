@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MailSystem.Client/MailSystem.Client.csproj" />
+  <Project Path="MailSystem.Server/MailSystem.Server.csproj" />
+  <Project Path="MailSystem.Shared/MailSystem.Shared.csproj" />
+</Solution>
